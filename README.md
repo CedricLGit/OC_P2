@@ -5,6 +5,7 @@ Vous êtes Data Scientist dans une start-up qui propose des contenus de formatio
 Mark, votre manager, vous a convié à une réunion pour vous présenter le projet d’expansion à l’international de l’entreprise. Il vous confie une première mission d’analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
 
 Vous trouverez les donnés avec le lien suivant: https://datacatalog.worldbank.org/dataset/education-statistics
+Les données doivent être téléchargées et extraites dans un dossier Data au même emplacement que le notebook.
 
 Voici les différentes questions que Mark aimerait explorer:
 
@@ -20,6 +21,7 @@ You are a Data Scientist in a start-up that offers online training content for h
 Mark, your manager, has invited you to a meeting to present the company's international expansion project. He assigns you a first mission of exploratory analysis, to determine if the data on education from the World Bank can inform the expansion project.
 
 You can find data here: https://datacatalog.worldbank.org/dataset/education-statistics
+Data should be downloaded and extracted in a Data folder located where the notebook is.
 
 Here are the different questions that Mark would like to answer:
 
